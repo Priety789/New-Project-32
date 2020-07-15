@@ -90,6 +90,7 @@ function keyPressed() {
     }
 }
 
+/*
 async function changeBackground() {
     var response = await fetch("http://worldtimeapi.org/api/timezone/Asia/Tokyo");
     var responseJSON = await response.json();
@@ -101,3 +102,4 @@ async function changeBackground() {
         background("darkblue");
     }
 }
+*/
